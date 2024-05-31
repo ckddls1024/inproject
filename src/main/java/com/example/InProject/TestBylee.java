@@ -1,4 +1,4 @@
 package com.example.InProject;
 
-public class Testbylee {
+public class TestBylee {
 }
